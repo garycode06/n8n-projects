@@ -1,1 +1,0 @@
-This is a repository for my n8n projects. I'll store my workflow json and explain their setup.
